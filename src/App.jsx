@@ -377,20 +377,25 @@ function App() {
         <h2 className="underline-hover">Projects</h2>
         
         <div className="projects" style={{ marginTop: "30px" }}>
-        <a href="">
+        <a href="https://mithungsmithungs-maker.github.io/To-Do-List/" target="_blank" >
           <div className="project-card">
             <h3>To-Do List App</h3>
             <p>A simple to-do list app using HTML, CSS, JavaScript and React</p>
           </div>
           </a>
+
+          <a href="https://mithungsmithungs-maker.github.io/weatherly-app/" target="_blank">
           <div className="project-card">
             <h3>Weatherly App</h3>
             <p>Real-time weather app using Weather API with Responsive and clean UI.</p>
           </div>
+          </a>
+          <a href="https://mithungsmithungs-maker.github.io/word-guess-grid/" target="_blank">
           <div className="project-card">
-            <h3>Word Guessing App</h3>
+            <h3>Word Guess App</h3>
             <p>Developed a 5×6 alphabet grid game, it will reveal the word user think of.</p>
           </div>
+          </a>
           <div className="project-card">
             <h3>Portfolio Website</h3>
             <p>Portfolio website (this one!) showcasing my work.</p>
