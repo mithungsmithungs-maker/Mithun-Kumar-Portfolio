@@ -590,6 +590,9 @@ h2:hover {
         height: 700px;
         margin: 15px;
       }
+      #skills {
+        height: 900px;
+      }
       nav ul {
       position: absolute;
       top: 90px;
