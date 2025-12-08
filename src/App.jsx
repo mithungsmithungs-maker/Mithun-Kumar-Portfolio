@@ -4,7 +4,7 @@ import "./App.css";
 import emailjs from "@emailjs/browser";
 
 // 🔁 Update these with your real asset paths
-import resumePdf from "./assets/Mithun_Kumar_GS_Frontend_Developer.pdf";
+import resumePdf from "./assets/Mithun_Kumar_GS_Frontend_Web_Developer_Resume.pdf";
 import githubLogo from "./assets/my-github.png";
 import linkedinLogo from "./assets/my-linkedin.png";
 import instagramLogo from "./assets/my-instagram.png";
